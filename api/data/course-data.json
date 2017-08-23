@@ -1,0 +1,37 @@
+[{
+        "name": "Advanced Backend Web Development I",
+        "stars": 5,
+        "description": "In this course we examine several technologies. The first is Grunt. Grunt is a task runner which is a way for us to implement a build system to handle writing our code in different languages, preprocessing, minifying our code, and doing unit testing - all automated. We’ll also take a look at Coffeescript, which is a preprocessor for Javascript. It follows a lot of similar structures to Python and is very, very popular. Finally, we’ ll discuss Sockets.Sockets are a way for us to open a constant connection between the server and the client.Normally when you make a request, the request goes up and then comes down with the data.With a socket, that request goes up and stays open, allowing the server to send data whenever it wants and the client to send data whenever it wants. So, we can make real time applications using sockets and we’ll take a look at how to implement a very simple system using socket IO.",
+        "photos": [
+            "/photos/courses/corinthiahotelbudapest/1.jpg"
+        ],
+        "content": ["Grunt",
+            "Coffeescript Basics",
+            "Sockets"
+        ],
+        "reviews": [{
+            "name": "Ronaldo",
+            "id": "/user/ronaldo.json",
+            "review": "Great course",
+            "rating": 4
+        }]
+    },
+    {
+        "name": "Advanced Backend Web Development II",
+        "stars": 5,
+        "description": "In this course we examine several technologies. The first is Grunt. Grunt is a task runner which is a way for us to implement a build system to handle writing our code in different languages, preprocessing, minifying our code, and doing unit testing - all automated. We’ll also take a look at Coffeescript, which is a preprocessor for Javascript. It follows a lot of similar structures to Python and is very, very popular. Finally, we’ ll discuss Sockets.Sockets are a way for us to open a constant connection between the server and the client.Normally when you make a request, the request goes up and then comes down with the data.With a socket, that request goes up and stays open, allowing the server to send data whenever it wants and the client to send data whenever it wants. So, we can make real time applications using sockets and we’ll take a look at how to implement a very simple system using socket IO.",
+        "photos": [
+            "/photos/courses/corinthiahotelbudapest/1.jpg"
+        ],
+        "content": ["Grunt",
+            "Coffeescript Basics",
+            "Sockets"
+        ],
+        "reviews": [{
+            "name": "Ronaldo",
+            "id": "/user/ronaldo.json",
+            "review": "Great course",
+            "rating": 4
+        }]
+    }
+]

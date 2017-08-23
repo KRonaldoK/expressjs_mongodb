@@ -1,0 +1,27 @@
+{
+  "name": "mean-app",
+  "version": "1.0.0",
+  "description": "Mongodb, Express.js and Node.js stack example application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KRonaldoK/expressjs_mongodb.git"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "KRonaldoK",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "mongodb": "^2.1.7"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  }
+}
